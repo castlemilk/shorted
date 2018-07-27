@@ -6,7 +6,7 @@ import AppViewWrapper from './../../components/AppViewWrapper';
 
 const TopShortsWrapper = styled.div`
     margin-top: 50px;
-    margin-bottom: 50px;it 
+    margin-bottom: 50px;
     width: 900px;
     height: 800px;
     background-color: white;
