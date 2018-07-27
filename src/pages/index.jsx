@@ -1,6 +1,6 @@
 import React from 'react';
 import { injectGlobal } from 'styled-components';
-import Header from '../components/Header/index';
+import TopShorts from '../views/topshorts';
 
 injectGlobal`
   body {
@@ -12,7 +12,7 @@ injectGlobal`
 `;
 
 const IndexPage = () => (
-  <Header />
+  <TopShorts />
 );
 
 export default IndexPage;
