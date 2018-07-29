@@ -1,26 +1,27 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# Shorted
+
+Shorted webapp
 
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
 
-## Install
+## install
 
 Make sure that you have the Gatsby CLI program installed:
+
 ```sh
 npm install --global gatsby-cli
 ```
 
-And run from your CLI:
+clone project and install packages:
+
 ```sh
-gatsby new gatsby-example-site
+git clone https://github.com/castlemilk/shorted.git
+cd shorted
+npm install
 ```
 
-Then you can run it by:
+start development server:
+
 ```sh
-cd gatsby-example-site
 gatsby develop
 ```
-
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
